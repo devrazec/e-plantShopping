@@ -238,7 +238,7 @@ function ProductList() {
         color: 'white',
         fontSize: '30px',
         textDecoration: 'none',
-        marginLeft: '300px'
+        marginLeft: '150px'
 
     }
 
