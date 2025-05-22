@@ -15,3 +15,4 @@ npm create vite@latest
 npm install
 npm run dev
 npm i -S react-redux
+npm i -D gh-pages
